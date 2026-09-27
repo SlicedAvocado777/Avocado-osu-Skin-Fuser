@@ -6,7 +6,7 @@ Everything down there including the script itself are written/translated by AI, 
 
 I cannot provide any guarantees for this script, including security or anything else, but if anyone wants to use it, I hope you enjoy it! Its functionality is pretty basic, and there's definitely a lot of room for optimization in the steps, but I'm just too lazy .w.
 
-Also it's currently only tested on Linux system, not sure if the directory works well on Windows.
+Also it's currently only tested on Linux system, not sure if the directory related functionalities works well on Windows.
 
 A dependency-free terminal tool for building osu! skins out of *other* skins.
 
