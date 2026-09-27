@@ -2,7 +2,8 @@
 
 # Avocado-osu-Skin-Fuser
 
-Everything down there including the script itself are written by AI, this skin fuser is made purely for my own needs. but the retro Windows 3.1 setup UI looks so good
+Everything down there including the script itself are written/translated by AI, this skin fuser is made purely for my own needs. but the retro Windows 3.1 setup UI looks so good.
+
 I cannot provide any guarantees for this script, including security or anything else, but if anyone wants to use it, I hope you enjoy it! Its functionality is pretty basic, and there's definitely a lot of room for optimization in the steps, but I'm just too lazy .w.
 
 A dependency-free terminal tool for building osu! skins out of *other* skins.
